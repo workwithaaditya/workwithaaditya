@@ -1,5 +1,3 @@
-
-<p align="center">
   ![tanjiro-fall](https://github.com/user-attachments/assets/4420c0b3-a197-4b18-a471-e8bd15d04348)
 
 
