@@ -1,7 +1,6 @@
 <p align="center">
-  ![kokushibo-demon-slayer](https://github.com/user-attachments/assets/53fdc4aa-bb6e-4e1c-bdf5-c027881809bf)
-
 </p>
+![kokushibo-demon-slayer](https://github.com/user-attachments/assets/3487f64b-a5f5-40fc-9a64-9e0f4d7abb4b)
 
 # **About Me**
 **Third-year engineering student, surviving deadlines**  
