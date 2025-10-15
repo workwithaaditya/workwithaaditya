@@ -2,7 +2,7 @@
 
 # **About Me**
 **Third-year engineering student, surviving deadlines**  
-**Loves vibecoding — code that actually works**  
+**Loves vibecoding or code that actually works**  
 **Creative, social, and easy to reach out to**  
 **Mostly solving practical problems my college keeps throwing at me**
 
