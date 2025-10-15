@@ -1,15 +1,16 @@
 
-![tanjiro-fall](https://github.com/user-attachments/assets/82363e1e-a271-47e1-bd71-2bf96c38c4b2)
-
-
 <p align="center">
+  ![tanjiro-fall](https://github.com/user-attachments/assets/82363e1e-a271-47e1-bd71-2bf96c38c4b2)
+
+
+
 
 # **About Me**
 **Third-year engineering student, surviving deadlines**  
 **Loves vibecoding or code that actually works**  
 **Creative, social, and easy to reach out to**  
 **Mostly solving practical problems my college keeps throwing at me**
-![akaza-stance](https://github.com/user-attachments/assets/e77eae0e-0f43-4da4-92db-d04f1699f5e5)
+
 
 
 ---
