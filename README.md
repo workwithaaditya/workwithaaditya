@@ -1,4 +1,4 @@
-![douma](https://github.com/user-attachments/assets/2fa996a7-b93d-4ba2-bd56-28667e8a9c41)
+  ![akaza](https://github.com/user-attachments/assets/1a0e78bb-686d-4dee-b9c6-0bbed96bd18a)
 
 # **About Me**
 **Third-year engineering student, surviving deadlines**  
