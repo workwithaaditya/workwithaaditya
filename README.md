@@ -1,5 +1,8 @@
-<![ez](https://github.com/user-attachments/assets/a8663472-25ea-4f14-964d-096779323aa2)
-p align="center">
+
+![tanjiro-fall](https://github.com/user-attachments/assets/82363e1e-a271-47e1-bd71-2bf96c38c4b2)
+
+
+<p align="center">
 
 # **About Me**
 **Third-year engineering student, surviving deadlines**  
