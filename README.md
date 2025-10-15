@@ -1,10 +1,13 @@
-<p align="center">
+<![ez](https://github.com/user-attachments/assets/a8663472-25ea-4f14-964d-096779323aa2)
+p align="center">
 
 # **About Me**
 **Third-year engineering student, surviving deadlines**  
 **Loves vibecoding or code that actually works**  
 **Creative, social, and easy to reach out to**  
 **Mostly solving practical problems my college keeps throwing at me**
+![akaza-stance](https://github.com/user-attachments/assets/e77eae0e-0f43-4da4-92db-d04f1699f5e5)
+
 
 ---
 
@@ -35,6 +38,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
+![hashira-infinity-castle](https://github.com/user-attachments/assets/b44bdd5e-1934-40b7-8088-90323f17d996)
 
 # **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api?username=workwithaaditya&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
