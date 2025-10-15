@@ -1,5 +1,4 @@
-<p align="center">
-![kokushibo-demon-slayer](https://github.com/user-attachments/assets/ae5aae86-4689-4402-b3d3-9d7022401e2b)
+![douma](https://github.com/user-attachments/assets/2fa996a7-b93d-4ba2-bd56-28667e8a9c41)
 
 # **About Me**
 **Third-year engineering student, surviving deadlines**  
@@ -61,4 +60,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=workwithaaditya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</p>
