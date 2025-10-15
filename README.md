@@ -1,8 +1,6 @@
-<p align="center">
-</p>
-![kokushibo-demon-slayer](https://github.com/user-attachments/assets/3487f64b-a5f5-40fc-9a64-9e0f4d7abb4b)
 
-# **About Me**
+#![akaza](https://github.com/user-attachments/assets/ccb58456-c4eb-4175-b9da-30d4f983f538)
+ **About Me**
 **Third-year engineering student, surviving deadlines**  
 **Loves vibecoding or code that actually works**  
 **Creative, social, and easy to reach out to**  
