@@ -1,7 +1,6 @@
-  ![tanjiro-fall](https://github.com/user-attachments/assets/4420c0b3-a197-4b18-a471-e8bd15d04348)
 
-
-
+![gamer-game](https://github.com/user-attachments/assets/04c64b25-335f-45a0-a624-844d8f33657b)
+![aero-gaming](https://github.com/user-attachments/assets/66bc9d5a-0716-4bc4-86ba-a69e8d05db3f)
 
 
 # **About Me**
