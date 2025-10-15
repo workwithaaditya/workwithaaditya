@@ -1,6 +1,7 @@
 
-![gamer-game](https://github.com/user-attachments/assets/04c64b25-335f-45a0-a624-844d8f33657b)
-![aero-gaming](https://github.com/user-attachments/assets/66bc9d5a-0716-4bc4-86ba-a69e8d05db3f)
+
+https://github.com/user-attachments/assets/f9c67a59-5906-4514-8888-56c9853d1dc9
+
 
 
 # **About Me**
