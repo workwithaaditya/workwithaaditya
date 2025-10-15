@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d34cbc23-fa4b-46aa-9f76-fb86ca8e219c" alt="muzan-muzan-kibutsuji">
+  ![kokushibo-demon-slayer](https://github.com/user-attachments/assets/53fdc4aa-bb6e-4e1c-bdf5-c027881809bf)
+
 </p>
 
 # **About Me**
