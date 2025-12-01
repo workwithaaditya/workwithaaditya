@@ -11,23 +11,35 @@
 ---
 
 # **Socials**
-<a href="https://instagram.com/negibbx"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/aaditya-negi-b08191353"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-<a href="mailto:workwithaaditya017@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-<br/>
-<a href="https://monkeytype.com/profile/Aaditya017">🔥 Monkeytype Profile</a>
+<a href="https://instagram.com/negibbx">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/aaditya-negi-b08191353">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:workwithaaditya017@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<a href="https://monkeytype.com/profile/Aaditya017">
+  <img src="https://raw.githubusercontent.com/monkeytype-hub/monkeytype-icon/master/monkeytype-icon/svg/carbon.svg" height="48" alt="Monkeytype profile" />
+</a>
 
 ---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake.svg" height="200" alt="Snake animation" />
 </picture>
 
 ---
 
-# **Tech Stack**
 </div>
+
+
+## <p align="center">🛠️ Tech Stack</p>
 
 <p align="center">
 
@@ -56,24 +68,30 @@
 <div align="center">
 
 # **GitHub Stats**
-<img src="https://github-readme-stats.vercel.app/api?username=workwithaaditya&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true"/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=workwithaaditya&theme=gruvbox&hide_border=false"/><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithaaditya&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
----
-
-# **GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=workwithaaditya&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4"/>
-
----
-
-# **Random Dev Quote**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=workwithaaditya&show_icons=true&theme=gruvbox&hide_border=true" />
+</p>
+<p>
+  <img src="https://streak-stats.demolab.com?user=workwithaaditya&theme=gruvbox&hide_border=true" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=workwithaaditya&layout=compact&theme=gruvbox&hide_border=true" />
+</p>
 
 ---
 
 # **Top Contributed Repo**
 <img src="https://github-contributor-stats.vercel.app/api?username=workwithaaditya&limit=5&theme=gruvbox&combine_all_yearly_contributions=true"/>
+
+---
+
+# **GitHub Trophies**   <!-- SECOND LAST -->
+<img src="https://github-profile-trophy.vercel.app/?username=workwithaaditya&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4"/>
+
+---
+
+# **Random Dev Quote**   <!-- LAST -->
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
 
 ---
 
