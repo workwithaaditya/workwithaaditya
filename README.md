@@ -15,16 +15,6 @@
 https://monkeytype.com/profile/Aaditya017
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/pacman-contribution-graph.svg">
-</picture>
-
-### 🎮 Tetris Contribution Animation
-![Tetris Contribution Animation](https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/tetris-contribution.svg)
-
----
 
 # **Tech Stack**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
