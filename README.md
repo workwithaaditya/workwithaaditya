@@ -23,6 +23,9 @@ https://monkeytype.com/profile/Aaditya017
   <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/tetris-contribution.gif" alt="Tetris Contribution GIF" />
 </p>
 ---
+## 🧱 3D Contributions Wall
+
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
