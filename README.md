@@ -14,6 +14,16 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workwithaaditya017@gmail.com)
 https://monkeytype.com/profile/Aaditya017
 
+---
+
+# 🎮 Tetris Contribution Animation
+> Because coding is cool, but playing with contributions is cooler 😎
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/tetris-contribution.gif" alt="Tetris Contribution GIF" />
+</p>
+
+---
 
 
 # **Tech Stack**
