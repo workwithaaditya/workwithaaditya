@@ -43,11 +43,7 @@ https://monkeytype.com/profile/Aaditya017
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/pacman-contribution-graph.svg">
-</picture>
+
 
 # **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api?username=workwithaaditya&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
