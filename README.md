@@ -16,19 +16,14 @@ https://monkeytype.com/profile/Aaditya017
 
 ---
 
----
+
 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/tetris-contribution.gif" alt="Tetris Contribution GIF" />
 </p>
----
-## 🧱 3D Contributions Wall
-
-![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
-
 
 # **Tech Stack**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -76,3 +71,7 @@ https://monkeytype.com/profile/Aaditya017
 
 [![](https://visitcount.itsvg.in/api?id=workwithaaditya&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
