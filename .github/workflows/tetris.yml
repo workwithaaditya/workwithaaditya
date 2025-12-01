@@ -1,0 +1,31 @@
+name: Generate Tetris Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run Tetris Generator
+        uses: rikhuijzer/github-contribution-tetris@v2
+        with:
+          output: dist/tetris-contribution.svg
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
