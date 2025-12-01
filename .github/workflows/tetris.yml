@@ -2,7 +2,7 @@ name: Generate Tetris Contribution GIF
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  
+    - cron: "0 */24 * * *" 
   workflow_dispatch:         
 
 permissions:
@@ -26,20 +26,4 @@ jobs:
           git clone https://github.com/debba/gh-contributions-tetris-gif-maker.git tetris-gif-maker
           cd tetris-gif-maker
           python -m pip install --upgrade pip
-          python -m pip install -r requirements.txt
-
-      - name: Generate Tetris GIF
-        working-directory: tetris-gif-maker
-        run: |
-          python main.py -u workwithaaditya -y 2025
-          ls -la images || echo "images folder not found"
-          mkdir -p ../dist
-          cp images/github_tetris.gif ../dist/tetris-contribution.gif
-
-      - name: Publish to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          python -m p
