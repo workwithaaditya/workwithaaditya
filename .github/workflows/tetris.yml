@@ -2,8 +2,8 @@ name: Generate Tetris Contribution GIF
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
-  workflow_dispatch:         
+    - cron: "0 */24 * * *"  # har 24 ghante
+  workflow_dispatch:         # manually run bhi kar sakte ho
 
 permissions:
   contents: write
@@ -24,6 +24,24 @@ jobs:
       - name: Clone Tetris GIF Maker
         run: |
           git clone https://github.com/debba/gh-contributions-tetris-gif-maker.git tetris-gif-maker
-          cd tetris-gif-maker
-          python -m pip install --upgrade pip
-          python -m p
+
+      - name: Install dependencies
+        working-directory: tetris-gif-maker
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Generate Tetris GIF
+        working-directory: tetris-gif-maker
+        run: |
+          python main.py -u workwithaaditya -y 2025
+          mkdir -p ../dist
+          cp images/tetris_github.gif ../dist/tetris-contribution.gif
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
