@@ -16,12 +16,13 @@ https://monkeytype.com/profile/Aaditya017
 
 ---
 
-# 🎮 Tetris Contribution Animation
-> Because coding is cool, but playing with contributions is cooler 😎
+---
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/tetris-contribution.gif" alt="Tetris Contribution GIF" />
 </p>
+---
 
 ---
 
