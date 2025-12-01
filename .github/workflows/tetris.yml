@@ -1,9 +1,9 @@
-name: Generate Tetris Contribution Graph
+name: Generate Tetris Contribution GIF
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
+    - cron: "0 */24 * * *"  # har 24 ghante
+  workflow_dispatch:         # manually run bhi kar sakte ho
 
 permissions:
   contents: write
@@ -13,16 +13,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout this repo
         uses: actions/checkout@v4
 
-      - name: Run Tetris Generator
-        uses: rikhuijzer/github-contribution-tetris@v2
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          output: dist/tetris-contribution.svg
-          github_user_name: ${{ github.repository_owner }}
+          python-version: "3.x"
 
-      - name: Push to output branch
+      - name: Clone Tetris GIF Maker
+        run: |
+          git clone https://github.com/debba/gh-contributions-tetris-gif-maker.git tetris-gif-maker
+          cd tetris-gif-maker
+          pip install -r requirements.txt
+
+      - name: Generate Tetris GIF
+        working-directory: tetris-gif-maker
+        run: |
+          python main.py -u workwithaaditya -y 2025
+          mkdir -p ../dist
+          cp images/github_tetris.gif ../dist/tetris-contribution.gif
+
+      - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
