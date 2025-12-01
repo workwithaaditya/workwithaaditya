@@ -17,10 +17,8 @@ https://monkeytype.com/profile/Aaditya017
 ---
 
 
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/tetris-contribution.gif" alt="Tetris Contribution GIF" />
+  <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -71,7 +69,6 @@ https://monkeytype.com/profile/Aaditya017
 
 [![](https://visitcount.itsvg.in/api?id=workwithaaditya&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
