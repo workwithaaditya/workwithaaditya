@@ -21,6 +21,9 @@ https://monkeytype.com/profile/Aaditya017
   <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/pacman-contribution-graph.svg">
 </picture>
 
+### 🎮 Tetris Contribution Animation
+![Tetris Contribution Animation](https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/tetris-contribution.svg)
+
 ---
 
 # **Tech Stack**
