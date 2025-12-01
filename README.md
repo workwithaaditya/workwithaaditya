@@ -17,9 +17,10 @@ https://monkeytype.com/profile/Aaditya017
 ---
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</picture>
 
 ---
 
