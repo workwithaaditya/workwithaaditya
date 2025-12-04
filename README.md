@@ -1,6 +1,7 @@
   ![akaza](https://github.com/user-attachments/assets/1a0e78bb-686d-4dee-b9c6-0bbed96bd18a)
 
 # **About Me**
+
 **Third-year engineering student, surviving deadlines**  
 **Loves vibecoding until my code works**  
 **Creative, social, and easy to reach out to**  
