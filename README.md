@@ -51,6 +51,9 @@
 
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
+
+  ![akaza](https://github.com/user-attachments/assets/1a0e78bb-686d-4dee-b9c6-0bbed96bd18a)
+
 --- 
 # **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api?username=workwithaaditya&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
