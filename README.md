@@ -9,23 +9,6 @@
 
 ---
 
-
-# **Socials**
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/negibbx) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-negi-b08191353) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workwithaaditya017@gmail.com)
-
-
----
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</picture>
-
----
-
 # **Tech Stack**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -44,6 +27,23 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+
+---
+
+
+# **Socials**
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/negibbx) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-negi-b08191353) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:workwithaaditya017@gmail.com)
+
+
+---
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/workwithaaditya/workwithaaditya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</picture>
 
 ---
 
